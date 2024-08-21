@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  recommendation-app:
+   build: ../recommendation-app
+   ports:
+     - 8080
+
+  
