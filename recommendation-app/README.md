@@ -13,7 +13,7 @@ This project is a Recommendation API built with Go. It provides an endpoint to r
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone <repository URL>
+    git clone https://github.com/JonathanP06511/recommendation-app.git
     ```
 
 2. Navigate to the project directory:
@@ -61,7 +61,4 @@ To run this project in a Docker container:
 
 3. The API will be available at `http://localhost:8080` inside the Docker container.
 
-## Documentation with Swagger
-
-API documentation is generated with Swagger and served at the `/api-docs` endpoint. Swagger allows you to view and test the API endpoints interactively.
 
